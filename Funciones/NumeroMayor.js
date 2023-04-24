@@ -17,6 +17,8 @@ function NumeroMayor(a,b,c){
       return Mayor=b;
     }else if(c>Mayor){
       return Mayor=c;
+    }else{
+        return Mayor;
     }
 }
-    console.log("Numero Mayor es:" + NumeroMayor(1,4,3));
+    console.log("Numero Mayor es:" + NumeroMayor(5,3,3));
