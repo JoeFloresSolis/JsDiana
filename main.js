@@ -54,5 +54,8 @@ Una comilla simple	\'
 Una comilla doble	\"
 Una barra inclinada	\\ */
 
+//GIT
+
+
 // OBJETOS: JSON Y EL XML
 // funciones
