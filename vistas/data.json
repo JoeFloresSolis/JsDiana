@@ -1,0 +1,30 @@
+{
+    "nombre": "Tienda de Ropa",
+    "direccion": {
+      "calle": "Av. Libertador",
+      "numero": 123,
+      "ciudad": "Buenos Aires",
+      "pais": "Argentina"
+    },
+    "productos": [
+      {
+        "nombre": "Camisa",
+        "precio": 25.99,
+        "tallas": ["S", "M", "L", "XL"],
+        "colores": ["Rojo", "Azul", "Verde"]
+      },
+      {
+        "nombre": "Pantalón",
+        "precio": 39.99,
+        "tallas": ["30", "32", "34", "36"],
+        "colores": ["Negro", "Gris", "Azul"]
+      },
+      {
+        "nombre": "Vestido",
+        "precio": 49.99,
+        "tallas": ["S", "M", "L"],
+        "colores": ["Rojo", "Negro", "Blanco"]
+      }
+    ]
+  }
+  

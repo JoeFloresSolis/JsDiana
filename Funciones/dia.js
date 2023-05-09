@@ -39,6 +39,7 @@ function obtenerDiaDeLaSemana(numero) {
     "dia5":"viernes",
   }
 
+
   
 
   console.log(dias.dia1)
